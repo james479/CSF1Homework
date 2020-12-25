@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.Powers</StartupObject>
+    <StartupObject>CSF1Homework.FizzBuzz</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATM.cs" />
+    <Compile Include="FizzBuzz.cs" />
     <Compile Include="FruitLoop2.cs" />
     <Compile Include="FruitLoop1.cs" />
     <Compile Include="Login.cs" />
