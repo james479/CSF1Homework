@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.Login</StartupObject>
+    <StartupObject>CSF1Homework.ATM</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ATM.cs" />
     <Compile Include="FruitLoop2.cs" />
     <Compile Include="FruitLoop1.cs" />
     <Compile Include="Login.cs" />
