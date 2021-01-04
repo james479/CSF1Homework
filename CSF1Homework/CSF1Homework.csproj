@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.Fibonacci</StartupObject>
+    <StartupObject>CSF1Homework.MadLib</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,7 @@
     <Compile Include="GradesLoop.cs" />
     <Compile Include="InterestCalc.cs" />
     <Compile Include="Login.cs" />
+    <Compile Include="MadLib.cs" />
     <Compile Include="Powers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TempConverter.cs" />
